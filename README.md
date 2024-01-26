@@ -28,6 +28,8 @@
 - recipe_comments.json - Запаршенные комментарии к рецептам датасета recipeData
 - Анализ.docx - анализ прдметной области
 - Beer prod.docx - Дополнительный поиск зависимостей
+- Data_73000_descriptors.csv - объединённый датасет с дескрипторами
+
 
   ![image](https://github.com/Riddars/BeerProjectForEng/assets/80139269/a8a3d9cb-1410-411e-aea8-5efff5de8e1c)
 
