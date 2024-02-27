@@ -37,5 +37,18 @@
 ## Демонстрация работы
 Для иллюстрации работы проекта представлены скриншот демонстрации интерактивного интерфейса.
 
-![image](https://github.com/Riddars/BeerProjectForEng/assets/80139269/a8a3d9cb-1410-411e-aea8-5efff5de8e1c)
+![image](https://github.com/Riddars/Beer-AI-assistant/assets/80139269/2910aca2-ae9c-4083-8eb6-73d370f1e8dc)
+![image](https://github.com/Riddars/Beer-AI-assistant/assets/80139269/5ecca51a-1563-49fd-9e72-4d414657fb15)
+
+
+## Выигранные конкурсы с презентацией этого проекта:  
+### 1 этап  
+![image](https://github.com/Riddars/Beer-AI-assistant/assets/80139269/458c1c3a-535f-438d-bb1b-7344f267f611)
+![image](https://github.com/Riddars/Beer-AI-assistant/assets/80139269/b911ef5e-a80a-4663-a5cc-6f1960ffd471)
+ 
+### 2 этап  
+![image](https://github.com/Riddars/Beer-AI-assistant/assets/80139269/01510706-2b05-4f9b-81a2-1412463d3a04)
+![image](https://github.com/Riddars/Beer-AI-assistant/assets/80139269/07d0feda-e402-4063-81ae-f72daa24fc26)
+
+
 
