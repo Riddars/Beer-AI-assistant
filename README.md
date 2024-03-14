@@ -41,14 +41,3 @@
 ![image](https://github.com/Riddars/Beer-AI-assistant/assets/80139269/5ecca51a-1563-49fd-9e72-4d414657fb15)
 
 
-## Выигранные конкурсы с презентацией этого проекта:  
-### 1 этап  
-![image](https://github.com/Riddars/Beer-AI-assistant/assets/80139269/458c1c3a-535f-438d-bb1b-7344f267f611)
-![image](https://github.com/Riddars/Beer-AI-assistant/assets/80139269/b911ef5e-a80a-4663-a5cc-6f1960ffd471)
- 
-### 2 этап  
-![image](https://github.com/Riddars/Beer-AI-assistant/assets/80139269/01510706-2b05-4f9b-81a2-1412463d3a04)
-![image](https://github.com/Riddars/Beer-AI-assistant/assets/80139269/07d0feda-e402-4063-81ae-f72daa24fc26)
-
-
-
